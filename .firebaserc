@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "development": "pet-hotel-2004",
+    "production": "pet-hotel-2004",
+    "default": "pet-hotel-2004"
+  }
+}
